@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rxjava.iml" filepath="$PROJECT_DIR$/Rxjava.iml" />
+      <module fileurl="file://C:\github\slide\Rxjava\Rxjava.iml" filepath="C:\github\slide\Rxjava\Rxjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\github\slide\Rxjava\app\app.iml" filepath="C:\github\slide\Rxjava\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2.0/rxjava2.0.iml" filepath="$PROJECT_DIR$/rxjava2.0/rxjava2.0.iml" />
     </modules>
   </component>
 </project>
